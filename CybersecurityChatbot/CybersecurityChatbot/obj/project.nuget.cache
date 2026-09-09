@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "niWN/wuXUTo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\source\\repos\\CybersecurityChatbot\\CybersecurityChatbot\\CybersecurityChatbot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\system.windows.extensions\\10.0.12\\system.windows.extensions.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
